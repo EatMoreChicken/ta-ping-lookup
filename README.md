@@ -1,4 +1,4 @@
-# Splunk Ping External Lookup
+# Ping Lookup - An External Lookup Example
 
 This is a simple Splunk app that provides an external lookup that allows users to ping a host and get the response time.
 
